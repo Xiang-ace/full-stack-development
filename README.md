@@ -1,2 +1,3 @@
 # full-stack-development
-vue3+ts+nest-admin(node+nestjs)
+前端采用vue3+ts+antdv
+后端采用node(fastify)+ts+nestjs+mysql
